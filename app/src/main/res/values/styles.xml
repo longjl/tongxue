@@ -10,13 +10,13 @@
         <item name="android:windowContentOverlay">@null</item>
         <!--<item name="android:homeAsUpIndicator">@drawable/ic_drawer</item>-->
 
-        <item name="android:windowBackground">@android:color/white</item>
-        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
     </style>
 
     <style name="PhotoShareActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="background">@android:color/white</item>
-        <item name="android:background">@android:color/white</item>
+        <item name="background">@color/action_bar_color</item>
+        <item name="android:background">@color/action_bar_color</item>
 
         <item name="android:titleTextStyle">@style/TitleTextStyle</item>
     </style>

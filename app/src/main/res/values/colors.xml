@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="action_bar_color">@color/header_color</color>
+    <color name="tab_backcolor">@color/header_color</color>
+
+    <color name="under_line_color">#4285f4</color>
     <color name="indicator_color">#44c0ff</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="header_color">#F6F6F6</color>
+    <color name="white">@android:color/white</color>
+    <color name="windowBackground">@android:color/white</color>
+    <color name="colorBackground">@android:color/white</color>
 </resources>

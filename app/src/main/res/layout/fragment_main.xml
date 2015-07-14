@@ -1,8 +1,9 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent">
 
-    <com.astuetz.PagerSlidingTabStrip
+    <cool.tongxue.views.PagerSlidingTabStrip
         android:id="@+id/tabs"
+        android:background="@color/tab_backcolor"
         android:layout_width="match_parent"
         android:layout_height="35dp" />
 

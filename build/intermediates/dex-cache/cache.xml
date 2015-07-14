@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/tongxue.deps/IMKit/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d3575358299447e643094be533224dc95287f647">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/classes-c0b5b54057a8510fa048dd0414e927236f764519.jar" />
+    </item>
+    <item
         jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
         <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3750f64a63efd2fe0674a6e1e53ec79d384a6613.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/classes-20b05bb09009457b9deadebc45e57b7384f6a3a0.jar" />
     </item>
     <item
         jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
@@ -21,6 +35,41 @@
         revision="20.0.0"
         sha1="7912610ed96381c25c36d986eba422731b9641b6">
         <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/classes-20b05bb09009457b9deadebc45e57b7384f6a3a0.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/tongxue.deps/actionbarsherlock/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b932cf9800cbb2944bfa1fb3e7a82618d1504b2f">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/classes-4911b330b434fd55a85fe3444df58684c88f8d5b.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3750f64a63efd2fe0674a6e1e53ec79d384a6613.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-57b77bd3a4b557e5e19be4175280133054f5131a.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/classes-e6c4ff7e8be23fd58803387de7470afede8c05df.jar" />
+    </item>
+    <item
+        jar="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/exploded-aar/tongxue.deps/IMKit/unspecified/libs/Rong_IMKit_v2_1_4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="77f6126ae896aa6c3e5363720bd3ccdade5365fd">
+        <dex dex="/Users/longjianlin/Documents/android-platform/tongxue-work/tongxue/app/build/intermediates/pre-dexed/debug/Rong_IMKit_v2_1_4-1485a514f424138fb62f3eb5d03515485618c987.jar" />
     </item>
     <item
         jar="/Users/longjianlin/Documents/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
